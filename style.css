@@ -1,0 +1,120 @@
+*{
+	margin:0px;
+	padding:0px;
+	
+	
+}
+.bmage{
+	
+	background-image:url('satvir.jpg');
+	background-size:100% 100%;
+	width:100%;
+	height:100%;
+}
+.menu{
+	
+	width:100%;
+	height:80px;
+	background-color:rgba(0,0,0.5);
+}
+.leftmenu{
+	width:25%;
+	line-height:80px;
+	float:right;
+	
+}
+.leftmenu h4{
+	padding-left:1px;
+	font-weight:bold;
+	color:white;
+	font-size:22px;
+	font-family:montserrat;
+}
+.leftmenu h1{
+	background-color:green;
+	padding-left:80px;
+	color:white;
+	
+}
+.leftmenu{
+	width:25%;
+	height:80px;
+	float:right;
+	background-color:blue;
+}
+.rightmenu{
+	width:75%;
+	height:100%;
+	float:right;
+	
+}
+.rightmenu lu{
+	margin-top:200px;
+}
+.rightmenu lu li {
+	font-family:'montserrat',sans-serif;
+	display:inline-block;
+	list-style:none;
+	font-size:15px;
+	color:white;
+	font-weight:bold;
+	line-height:100px;
+	margin-left:40px;
+}
+#firstlist{
+	color:green;
+}
+.rightmenu ul li:hover{
+color:orenge;	
+}
+  .textone{
+	width:100px;
+	margin-top:185px;
+	text-transform:uppercase;
+	text-align:center;
+	color:white;
+	
+}
+.textone h2{
+	font-size:14px;
+	font-family:'open sans'sans-serif;
+}
+.textone h1{
+	font-size:60px;
+    font-family:'open sans'sans-serif;
+	font-weight:700px;
+	margin:14px,0px;
+}
+.textone h3{
+	
+	font-size:12px; 
+	font-family:'open sans'sans-serif;
+
+}
+#buttonone{
+	background-color:orange;
+	border:none;
+	text-transform:upercase;
+	font-weight:bold;
+	font-size:15px;
+	font-family:'montserrat',sans-serif;eight:40px;
+	width:150px;
+	margin-top:50px;
+	border: 50px soild black;
+	color:blue;
+	border-radius:1.5rem;
+	
+	}
+#buttontwo{
+		background-color:orange;
+		border:none;
+		font-family:'montserrat',sans-serif;
+		text-transform:upercase;
+		font-weight:bold;
+		font-size:15px;
+		width:150px;
+		margin-top:50px;
+		border:50px soild black;
+		color:blue;
+		border-radius:1.4rem;
+	}
